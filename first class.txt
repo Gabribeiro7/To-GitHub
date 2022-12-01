@@ -1,0 +1,41 @@
+formacion y aprendizagen: que sé que me puede ayudar en fullstack.
+bachellier
+camarero gestion, habilidades sociales, raciocinio logico, resolucion problemas 
+apredizagens significativos
+trabajar en cooperativo, cada uno tiene su punto fuerte
+dotes comunicación
+lenguas
+
+- Trabajos acreditables: pre disposicion a tecnologia,
+formatear ordenadores
+
+3 talentos:habilidades sociales(comunicación), planeamento/organización, no tener miedo de fallar/intentar apreender, gestion de stress en situaciones complicadas
+3 areas de mejora: Foco, procrastinación/pereza, 
+formacion apreendizagen: bachellier y iba empezar universidade (micro y nano tecnologias/engeñaria info.)
+carrera laboral: Hosteleria ( he llevado restaurantes/bares, gestionado reservas/mesas/stock y personal) habilidades sociales.
+		 Obras/mudanzas: Logistica
+		 Formatear y intalaciones de hardware/software, para amigos y familiares, me gusta la tecnologia, domótica
+		 Carpinteria y tabajos manuales: paciencia, perfeccionismo
+
+¿Edad? gabriel, Brasileño, 27 años
+¿Que haceis aqui? bachellier en Lisboa ( ciencias y tecnologias) y iba empezar universidade, he focado en el trabajo (hosteleria, obras, vendedor, mudanzas), estaba de metri/jefe de sala, buen puesto(2.3k mes)
+pero no tenia tiempo libre por los horarios repartidos. he decidido cambiar 
+
+¿Objetivos?Nueva area de trabajo, futuro, proyectos
+¿Background? (todo por hobby) Formatear y intalaciones de hardware/software, para amigos y familiares, me gusta la tecnologia, domótica 
+¿Como quereis ser llamados?
+
+Comandos que utilizaremos la primera vez que creamos el repo
+1 crear un proyecto en local
+2 crear un repositorio en github o gitlab
+3 tener muy en cuenta donde queremos executar el comando...
+4 git init -->crear una config de git
+5 añadir el git add remote origin -> enlance con el repo online
+
+comandos que utilizamos todas las veces que haga falta
+
+GIT add . (añade todos cambios)
+
+git commit -m "comentario/fix" (sao comentarios para que las personas sepan que estamos haciendo)-->orden de despegue
+
+git push teniendo en cuenta que la primera vez teneis que copiar y pegar el comando que os aporte -->despegar
